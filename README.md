@@ -13,4 +13,6 @@ Find Single Candidates: find single candidates in a cell where there are other n
 
 Added this from xcode!!
 
+And added this also!
+
 
