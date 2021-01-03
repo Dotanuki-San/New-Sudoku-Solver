@@ -9,10 +9,7 @@ new solving techniques are developed they can be referrenced whilst
 reducing the risk that it affects the main program.
 
 New Functionality List: 
+
 Find Single Candidates: find single candidates in a cell where there are other numbers.
-
-Added this from xcode!!
-
-And added this also!
 
 
