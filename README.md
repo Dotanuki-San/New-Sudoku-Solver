@@ -10,5 +10,5 @@ reducing the risk that it affects the main program.
 
 New Functionality List: Find Single Candidates: find single 
 candidates in a cell where there are other numbers.
-
+Adding a new line 09/01/2021
 
