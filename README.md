@@ -1,3 +1,4 @@
 # New-Sudoku-Solver
 Re-factored the code to work on macOS
-Added a sentence
+
+11/01/2021 - Added ssh access
