@@ -1,6 +1,3 @@
 # New-Sudoku-Solver
 Re-factored the code to work on macOS
-
-11/01/2021 - Added ssh access & email and user name changes
-
-11/01/2021 - Actually connected with GitHub!
+Re-organised code into separate file to improve maintainability
